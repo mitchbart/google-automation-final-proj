@@ -1,2 +1,3 @@
 # google-automation-final-proj
-google it automation course final project
+
+Working folder for googles it automation with python final project
